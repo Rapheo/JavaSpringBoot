@@ -1,6 +1,6 @@
 # Enable devtool in INTELIJ
 
-first paste this in you pom file:
+First paste this in you pom file:
 
 <dependency>
     <groupId>org.springframework.boot</groupId>
