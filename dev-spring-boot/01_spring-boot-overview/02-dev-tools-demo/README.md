@@ -1,13 +1,14 @@
 # Enable devtool in INTELIJ
 
-first paste this in you pom file:
+First paste this in you pom file:
 
+```
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-devtools</artifactId>
     <version>3.1.3</version>
 </dependency>
-
+```
 Then go to 
 
 File > Settings > Build, Execution, Deployment > Compiler > tick (Build project automatically)
