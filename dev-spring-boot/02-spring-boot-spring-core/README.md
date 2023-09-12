@@ -1,5 +1,5 @@
 # Spring Container :
-IoC container is a framework for implementing automated dependency injection. The container will create the objects, wire them together, configure them, and manage their complete life cycle from creation till destruction. The Spring Container can be configured either by XML, Java annotations, or Java code. These objects are called Spring Beans.
+IoC (Inversion of Control) container is a framework for implementing automated dependency injection. The container will create the objects, wire them together, configure them, and manage their complete life cycle from creation till destruction. The Spring Container can be configured either by XML, Java annotations, or Java code. These objects are called Spring Beans.
 # Spring Bean :
 A bean is an object that is instantiated, assembled, and otherwise managed by a Spring IoC container.
 # Injection Types :
